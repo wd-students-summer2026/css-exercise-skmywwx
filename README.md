@@ -1,4 +1,4 @@
-# A Stylish Web Site About Me
+# CSS Exercise - A Stylish Web Site About Me
 
 Welcome! In this assignment, you will add CSS styles to your existing web site about you.
 
@@ -6,7 +6,7 @@ The updated HTML and CSS files must be published to the web by uploading them to
 
 The new CSS file must be named `main.css` reside in a sub-directory named `css` and be linked from all pages of your site.
 
-### Copy HTML
+## Copy HTML
 
 Before starting, copy the HTML code from your existing pages into the blank HTML documents in this new code repository.
 
