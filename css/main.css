@@ -1,1 +1,81 @@
 /* place your CSS code here */
+body {
+  background-color: #cfe0e8;
+}
+
+h1 {
+  color: #3b3a30; /* brown color from W3Schools*/
+  background-color:cornflowerblue;
+  font-family:Courier, sans-serif; 
+  font-size: 30px; 
+  text-align: center;
+}
+
+h2 {
+  color: #3b3a30; /* brown color from W3Schools*/
+  background-color:#84aabd;
+  font-family:Courier, sans-serif; 
+  font-size: 22px;
+}
+
+h3 {
+  color: #3b3a30; /* brown color from W3Schools*/
+  background-color:cornflowerblue;
+  font-family:Courier, sans-serif; 
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px; 
+}
+
+/* link styling */
+a:link {
+  color: rgb(41, 93, 190);
+  background-color: none;
+  text-decoration: none;
+}
+
+a:visited {
+    color:rgb(166, 84, 55);
+   /* text-decoration-line: underline;*/
+}
+
+a:hover {
+  background-color: lightgreen;
+  text-decoration: underline;
+  border-style: solid;
+  border-color:#3b3a30;
+}
+
+a:active {
+  background-color:khaki;
+  text-decoration: underline;
+  border-style: none;
+} 
+
+/* section styling */
+section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 10px;
+}
+
+section#my_background{
+    background-color:#c0ded9;
+}
+
+section#my_background h2{
+    border-bottom-style:dotted;
+    border-top-style: dotted;
+    border-width: 3px;
+}
+
+section#my_interests{
+    background-color:#eaece5;
+}
+section#my_interests h2{
+    border-bottom-style: dotted;
+    border-top-style: dotted;
+    border-width: 3px;
+}
