@@ -58,7 +58,9 @@ a:active {
 section {
     padding: 10px;
     margin-bottom: 10px;
-    border: 10px;
+    border-style: dotted solid;
+    border-width: 5px;
+    border-color:rgba(100, 148, 237, 0.517);
 }
 
 section#my_background{
